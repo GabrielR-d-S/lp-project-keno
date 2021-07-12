@@ -1,5 +1,5 @@
 # Projeto Keno
-Este programa é uma implementação do jogo [Keno](https://en.wikipedia.org/wiki/Keno) em C++. Ele é capaz de ler arquivos de apostas externos, sortear números aleatórios e imprimir no terminal o resultado de cada rodada.
+Este programa é uma implementação do jogo [Keno](https://en.wikipedia.org/wiki/Keno) em C++. Ele é capaz de ler um arquivo de apostas, sortear números aleatórios e imprimir no terminal o resultado de cada rodada.
 
 ## Como compilar esse projeto?
 A compilação do projeto é feita utilizando o **GCC**.

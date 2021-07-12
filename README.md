@@ -56,7 +56,7 @@ Os comandos para executar os arquivos válidos são:
 ./keno ../data/bet_10_spots.dat
 ./keno ../data/bet_15_spots.dat
 ```
-Que efetuam apostas válidas com 5, 10 e 15 _spots_, reespectivamente.
+Que efetuam apostas válidas com 5, 10 e 15 _spots_, respectivamente.
 Para executar casos onde o programa detecta apostas inválidas, os comandos são:
 ```
 ./keno ../data/bet_invalid_char.dat
@@ -65,7 +65,7 @@ Para executar casos onde o programa detecta apostas inválidas, os comandos são
 ./keno ../data/bet_out_of_range_spot.dat
 ./keno ../data/bet_too_many_spots.dat
 ```
-Que efetuam as seguintes apostas inválidas, reespectivamente:
+Que efetuam as seguintes apostas inválidas, respectivamente:
 - Aposta com caractéres estranhos;
 - Aposta com **IC** (_initial credit_) inválido;
 - Aposta com **NR** (_number of rounds_) inválido;

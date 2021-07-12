@@ -3,7 +3,11 @@ Este programa é uma implementação do jogo [Keno](https://en.wikipedia.org/wik
 
 ## Como compilar esse projeto?
 A compilação do projeto é feita utilizando o **GCC**.
-Inicialmente, abra o terminal na pasta do projeto e vá até a pasta *src*:
+Inicialmente, abra o terminal e crie dentro da pasta do projeto um diretório chamado _build_:
+```
+mkdir build
+```
+Depois, vá até a pasta *src*:
 ```
 cd src/
 ```

@@ -14,7 +14,7 @@ void print_starting_message(KenoBet & bet, float credits, int rounds)
   std::cout << "----------+-----------" << std::endl;
   std::cout << "Hits      | Retorno" << std::endl;
   int maxHits = vec.size();
-  for (int i = 0; i < maxHits; i++)
+  for (int i = 0; i <= maxHits; i++)
   {
     std::cout << i << "         | " << bet.get_payoff(i) << std::endl;
   }
